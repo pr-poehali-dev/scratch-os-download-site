@@ -38,10 +38,15 @@ const Hero = () => {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-            <button className="bg-gradient-to-r from-scratch-orange to-scratch-red text-white px-8 py-4 rounded-2xl font-rubik font-semibold text-lg hover:scale-105 transform transition-all duration-300 scratch-shadow flex items-center gap-3">
+            <a
+              href="https://drive.google.com/file/d/1REeQvlhTg7AFg7RJ7KN5kmSwBs7E-oW8/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-gradient-to-r from-scratch-orange to-scratch-red text-white px-8 py-4 rounded-2xl font-rubik font-semibold text-lg hover:scale-105 transform transition-all duration-300 scratch-shadow flex items-center gap-3"
+            >
               <Icon name="Download" size={24} />
               Скачать Scratch OS
-            </button>
+            </a>
 
             <button className="border-2 border-scratch-orange text-scratch-orange px-8 py-4 rounded-2xl font-rubik font-semibold text-lg hover:bg-scratch-orange hover:text-white transition-all duration-300 flex items-center gap-3">
               <Icon name="Play" size={24} />

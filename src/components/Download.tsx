@@ -39,7 +39,7 @@ const Download = () => {
               </p>
 
               <a
-                href="https://drive.google.com/drive/home"
+                href="https://drive.google.com/file/d/1REeQvlhTg7AFg7RJ7KN5kmSwBs7E-oW8/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-gradient-to-r from-scratch-orange to-scratch-red text-white px-8 py-4 rounded-2xl font-rubik font-semibold text-lg hover:scale-105 transform transition-all duration-300 scratch-shadow flex items-center justify-center gap-3 mb-4"
@@ -50,7 +50,7 @@ const Download = () => {
 
               <div className="flex gap-3">
                 <a
-                  href="https://drive.google.com/drive/home"
+                  href="https://drive.google.com/file/d/1REeQvlhTg7AFg7RJ7KN5kmSwBs7E-oW8/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 border-2 border-gray-300 text-gray-600 px-4 py-3 rounded-xl font-medium hover:bg-gray-50 transition-colors duration-300 flex items-center justify-center gap-2"
@@ -59,7 +59,7 @@ const Download = () => {
                   macOS
                 </a>
                 <a
-                  href="https://drive.google.com/drive/home"
+                  href="https://drive.google.com/file/d/1REeQvlhTg7AFg7RJ7KN5kmSwBs7E-oW8/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 border-2 border-gray-300 text-gray-600 px-4 py-3 rounded-xl font-medium hover:bg-gray-50 transition-colors duration-300 flex items-center justify-center gap-2"
